@@ -45,5 +45,5 @@ for(let valor of nombres){
 let indice = 0
 while (indice < nombres.length){
     console.log(nombres[indice])
-    indice++
+    indice++ // indice += 1 // indice = indice + 1
 }
